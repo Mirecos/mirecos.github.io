@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    width: 500px;
+    
+}
+
+.title{
+    margin: 0%;
+    padding: 0%;
+    background-color: gray;
+}
+
+.content{
+    background-color: lightgray;
+}
